@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebRTC Camera Sender</string>
+    <string name="hint_signaling_url">Signaling URL (ws://192.168.0.5:3001?room=abc)</string>
+    <string name="hint_room">Room</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="ice_state">iceConnectionState: NEW</string>
+</resources>
